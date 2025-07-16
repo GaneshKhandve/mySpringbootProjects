@@ -1,4 +1,4 @@
 # mySpringbootProjects
 This is my first git repository
 <br>
-Author Ganesh Khandve
+Author Ganesh Khandve (Developer)
